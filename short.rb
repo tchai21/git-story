@@ -1,1 +1,1 @@
-'Hello, I am Tim. I just started ACLTC. Wish me luck.'
+'Hello, I am Tim. I just started ACLTC. Wish me luck. This will be fun.'
