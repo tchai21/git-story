@@ -1,1 +1,1 @@
-'Hello, I\'m Tim. I just started ACLTC. Wish me luck. This is going to be some learning experience. So far, the staff and colleagues are really cool.'
+'Hello, I am Tim. I just started ACLTC. Wish me luck.'
